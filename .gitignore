@@ -1,1 +1,10 @@
+**/.terraform/*
+# .tfstate files
+*.tfstate
+*.tfstate.*
+*bastionkey
+*mykey
+bastionkey.*
+mykey.*
+*.terraform
 */terraform.tfvars
