@@ -23,10 +23,10 @@ step-15 | Autoscaling
 step-16 | Autoscaling with ELB (Elastic Load Balancer)
 step-17 | Elastic Beanstalk PHP 7 stack with RDS
 step-18 | Interpolations, VPC module
-step-18b | Project structure, best practices
+step-18w | Project structure, best practices
 packer | Build AMIs with Packer
 jenkins-packer | Demo with jenkins and Packer
-docker-one | Using ECR - The EC2 Container Registry
-docker-two | Using ECS - The EC2 Container Service
-docker-three | Using ECR/ECS with Jenkins in a complete workflow
+docker-step-1 | Using ECR - The EC2 Container Registry
+docker-step-2 | Using ECS - The EC2 Container Service
+docker-step-3 | Using ECR/ECS with Jenkins in a complete workflow
 module | Using ECS + ALB in 4 modules to show how developing terraform modules work
